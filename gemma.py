@@ -18,10 +18,9 @@ Automatic checks found:
 Rules:
 - Base your answer ONLY on what is actually in the message and the checks above. Never invent facts.
 - verdict must be exactly one of: "Scam", "Suspicious", "Looks safe".
+- Use "Scam" only when the message clearly matches a known scam pattern (fake KYC, advance fee, fake job, parcel fee, prize). If it could plausibly be from a real person the user knows, use "Suspicious" and tell them to verify by calling that person.
 - Give 2-4 short, simple reasons.
 - Give 3-4 practical next steps (e.g. don't click, don't pay, block, report to cybercrime.gov.in or 1930, verify on the official website).
-- Write reasons and next_steps in {language}. Keep the JSON keys and the verdict value in English.
-- Output only valid JSON, no extra text.
 
 Reply ONLY with JSON in this exact shape:
 {{"verdict": "...", "reasons": ["..."], "next_steps": ["..."]}}"""
