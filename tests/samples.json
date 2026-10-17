@@ -1,0 +1,18 @@
+[
+  {"text": "Dear customer, your SBI KYC expires today. Update immediately at bit.ly/sbi-kyc or your account will be blocked.", "label": "scam"},
+  {"text": "Congrats! Work from home, earn 50,000 per day, no experience needed. Pay Rs 500 registration fee to hr.jobs@gmail.com", "label": "scam"},
+  {"text": "Your parcel is held at customs. Pay Rs 49 delivery fee within 24 hours at cutt.ly/parcel99 or it will be returned.", "label": "scam"},
+  {"text": "UPI refund of Rs 2,500 pending. Share your OTP and UPI PIN to receive the money now.", "label": "scam"},
+  {"text": "Internship offer at Google! Selected for 30,000 stipend work from home. Pay Rs 1000 processing charge to confirm. Mail hr.google.intern@gmail.com", "label": "scam"},
+  {"text": "Your electricity will be disconnected tonight. Call this number urgently and pay the pending bill at tinyurl.com/eb-pay", "label": "scam"},
+  {"text": "Your Aadhaar is suspended. Verify your account immediately at secure-uidai.xyz to avoid arrest.", "label": "scam"},
+  {"text": "Part time job: like YouTube videos and earn 5,000 daily. No experience needed. Send registration fee Rs 200 to start.", "label": "scam"},
+
+  {"text": "Your Amazon order #402-123 has been delivered. Rate your experience in the app.", "label": "genuine"},
+  {"text": "Hi, this is Priya from Infosys HR. Please confirm your interview slot tomorrow at 11 AM. Reply from your official @infosys.com mail.", "label": "genuine"},
+  {"text": "Your OTP for login is 482910. Do not share it with anyone. Valid for 10 minutes.", "label": "genuine"},
+  {"text": "Rs 1,200 debited from A/c XX4521 on 12-Oct at Swiggy. Not you? Call the number on the back of your card.", "label": "genuine"},
+  {"text": "Reminder: the college fee deadline is 30 October. Pay through the official student portal. Ignore calls asking for payment.", "label": "genuine"},
+  {"text": "Hey, are we meeting for the project at 5? I will bring the laptop.", "label": "genuine"},
+  {"text": "Your train PNR 2451234567 is confirmed. Coach S4, seat 23. Happy journey!", "label": "genuine"}
+]
